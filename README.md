@@ -31,6 +31,8 @@ Utilizing SHAP, we were able to interpret the model's decisions and understand t
 
 ## GP
 After Running 500 Generations of a population size of 1000, we were not able to reach accurate results as shown in the image below. Due to the computational complexity of genetic programming and the limit computation resources available to us, our results were bottlenecked by runtime.
+
+
 <img src="Results/gp.jpeg" width="600">
 
 
