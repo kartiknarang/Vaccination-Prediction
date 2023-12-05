@@ -15,6 +15,14 @@ Formally, we apply GP and Tree-Based models to forecast COVID-19 vaccination upt
 ### Tree-Based Regressors
 We were able to successfully and accurately predict vaccination uptake spikes as shown in the images below.
 
+<img src="Results/table2.png" width="400">
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="Results/spike1.jpg" width="400">
+    <img src="Results/spike2.jpg" width="400">
+    <img src="Results/spike3.jpg" width="400">
+</div>
+
 #### Interpretability
 Utilizing SHAP, we were able to interpret the model's decisions and understand the features that led to the spikes.
 
