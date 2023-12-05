@@ -11,6 +11,8 @@ The COVID-19 pandemic has had a devastating impact worldwide, causing regional d
 
 Formally, we apply GP and Tree-Based models to forecast COVID-19 vaccination uptake and identify the most important factors that cause stagnant periods of vaccination rates. The goal with this is that public health officials can develop targeted interventions for groupings of populations to promote vaccine uptake.
 
+Our paper and presentation can be found in the DOC folder.
+
 ## Results
 ### Tree-Based Regressors
 We were able to successfully and accurately predict vaccination uptake spikes as shown in the images below.
@@ -50,6 +52,8 @@ The current state of the code will then go through Dataset Creation, EDA, Featur
 
 
 ## Locally using ipynb file
+
+Our ipynb file and requirements.txt can be found in the SRC folder.
 
 To run our Juypter Notebook you will first need to satisfy package requirements:
 
