@@ -25,6 +25,8 @@ We were able to successfully and accurately predict vaccination uptake spikes as
 
 #### Interpretability
 Utilizing SHAP, we were able to interpret the model's decisions and understand the features that led to the spikes.
+<img src="Results/shap.jpeg" width="800">
+<img src="Results/shap2.jpeg" width="800">
 
 
 ## GP
