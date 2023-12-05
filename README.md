@@ -8,6 +8,16 @@ The COVID-19 pandemic has had a devastating impact worldwide, causing regional d
 Formally, we apply GP and Tree-Based models to forecast COVID-19 vaccination uptake and identify the most important factors that cause stagnant periods of vaccination rates. The goal with this is that public health officials can develop targeted interventions for groupings of populations to promote vaccine uptake.
 
 ## Results
+### Tree-Based Regressors
+We were able to successfully and accurately predict vaccination uptake spikes as shown in the images below.
+
+#### Interpretability
+Utilizing SHAP, we were able to interpret the model's decisions and understand the features that led to the spikes.
+
+
+## GP
+After Running 500 Generations of a population size of 1000, we were not able to reach accurate results as shown in the image below. Due to the computational complexity of genetic programming and the limit computation resources available to us, our results were bottlenecked by runtime.
+
 
 
 
