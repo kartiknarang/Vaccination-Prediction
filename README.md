@@ -2,7 +2,7 @@
 By Amish Saini and Kartik Narang
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="Headshots/kartik.jpg" alt="Image 1" width="400">
+    <img src="Headshots/kartik.jpg" alt="Image 1" width="10">
     <img src="Headshots/amish.jpeg" alt="Image 2" width="400">
 </div>
 
