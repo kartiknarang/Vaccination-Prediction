@@ -1,6 +1,8 @@
 # Code Explained
 
-There are 2 ways to run the code:
+There are 2 ways to run the code.
+
+Both ways have descriptions of the code within the code.
 
 ## Kaggle
 
