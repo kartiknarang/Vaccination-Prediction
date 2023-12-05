@@ -1,9 +1,10 @@
 # Estimating Vaccination Uptake for COVID-19 with a Focus on Interpretability
 By Amish Saini and Kartik Narang
 
-<img src="Headshots/kartik.jpeg" width="200" height="300">
-<img src="Headshots/amish" width="200" height="300">
-
+<div style="display: flex; justify-content: space-between;">
+    <img src="Headshots/kartik.jpeg" alt="Image 1" width="400">
+    <img src="Headshots/amish.jpeg" alt="Image 2" width="400">
+</div>
 
 ## Summary of Project
 The COVID-19 pandemic has had a devastating impact worldwide, causing regional disparities in COVID-19 prevalence to emerge. These disparities demonstrate a need for predictive modeling strategies to make the best decisions that reduce the burden on our healthcare system. There were many periods where the vaccination rates in the US were stagnant, despite widespread availability at many points. Understanding the most important factors that impact vaccination uptake using Genetic Programming (GP) and interpretable Tree-Based models can be fruitful to increase vaccination coverage.
