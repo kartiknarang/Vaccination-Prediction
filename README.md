@@ -36,5 +36,32 @@ After Running 500 Generations of a population size of 1000, we were not able to 
 <img src="Results/gp.jpeg" width="600">
 
 
+# Code Explained
+
+There are 2 ways to run the code:
+
+## Kaggle
+
+[Link](https://www.kaggle.com/code/amish30/vaccination-prediction)
+
+Click on Copy & Edit to make your version and Run All.
+
+The current state of the code will then go through Dataset Creation, EDA, Feature Selection, Modeling, and Interpretation
+
+
+## Locally using ipynb file
+
+To run our Juypter Notebook you will first need to satisfy package requirements:
+
+pip install -r requirements.txt
+
+After satisfying the requirements, to demo the code, just Run All.
+
+The current state of the code will then go through Dataset Creation, EDA, Feature Selection, Modeling, and Interpretation
+
+
+
+
+
 
 
