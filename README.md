@@ -1,10 +1,8 @@
 # Estimating Vaccination Uptake for COVID-19 with a Focus on Interpretability
 By Amish Saini and Kartik Narang
 
-<img src="Headshots/kartik.jpeg" alt="Image Alt Text" width="300" height="200">
-
-![Kartik Narang](Headshots/kartik.jpeg)
-![Amish Saini](Headshots/amish.jpeg)
+<img src="Headshots/kartik.jpeg" width="200" height="300">
+<img src="Headshots/amish" width="200" height="300">
 
 
 ## Summary of Project
